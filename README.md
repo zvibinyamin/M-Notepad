@@ -1,4 +1,4 @@
-# Simply wordPad as "Notepad"
+# Simple wordPad as "Notepad"
 
 The software has three menus "Help", "Edit" and "Help".
 
