@@ -173,7 +173,7 @@ public class Editor extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void AboutActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_AboutActionPerformed
-        JOptionPane.showMessageDialog(rootPane, "My Simple Editor Product Version 1.0.0\n\nBy 204034656", "My Simple Editor", WIDTH);
+        JOptionPane.showMessageDialog(rootPane, "My Simple Editor Product Version 1.0.0\n\nBy Zvika", "My Simple Editor", WIDTH);
     }//GEN-LAST:event_AboutActionPerformed
 
     private void jMenuItem_CopyActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem_CopyActionPerformed
