@@ -1,6 +1,6 @@
 # WordPad as "Notepad"
 
-The software has three menus Help - and Edit, File.
+The software has three menus "Help", "Edit" and "Help".
 
 Details of the menu:
 - "File" contains three options: Open, Save, Exit
